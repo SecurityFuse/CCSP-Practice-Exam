@@ -84,3 +84,8 @@ Exam The candidate must register for and pass the C**CSP certification** exam. I
 Endorsement Upon meeting the experience requirements and successfully passing the exam, a candidate must have their application endorsed by a current (ISC)2 certification holder. This endorsement must be done by someone who knows the candidate and can attest to the validity of their experience and professional credentials.
 
 Maintenance After being awarded the b, a certification holder must complete specific continuing professional education (CPE) requirements and pay annual maintenance fees (AMFs). Refer to the official (ISC)2 site for current information about both requirements.
+
+Tags :
+
+**CCSP** | Certified Information security manager | **CCSP** Brain Dumps | **CCSP** Real Exam Questions | **CCSP** Dumps | **CCSP** Exam | **CCSP** Practice Questions | **CCSP** prep | **CCSP** Prep before Exam | **CCSP** quick recap before Exam | **CCSP** Questions | **CCSP** Exam Questions | CSIM guide
+
