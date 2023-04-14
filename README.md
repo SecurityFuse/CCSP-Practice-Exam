@@ -5,7 +5,7 @@
 
 you can get **DISCOUNT** by using **below link** for the month of **OCT/NOV**. **LIMITED TIME** only
 
-https://www.udemy.com/course/ccsp-practice-exam/?couponCode=LIMITED50FORNOV
+https://www.udemy.com/course/ccsp-exam/?couponCode=LIMITED
 
 Finally! Pass the **ISC2 Certified Cloud Security Professional** exam.
 
@@ -88,4 +88,20 @@ Maintenance After being awarded the b, a certification holder must complete spec
 Tags :
 
 **CCSP** | Certified Information security manager | **CCSP** Brain Dumps | **CCSP** Real Exam Questions | **CCSP** Dumps | **CCSP** Exam | **CCSP** Practice Questions | **CCSP** prep | **CCSP** Prep before Exam | **CCSP** quick recap before Exam | **CCSP** Questions | **CCSP** Exam Questions | CCSP guide
+
+    CCSP practice exam
+    CCSP certification
+    CCSP exam preparation
+    CCSP exam questions
+    CCSP exam tips
+    CCSP study guide
+    CCSP online course
+    Cloud security
+    Cloud computing
+    Cloud architecture
+    Cloud data security
+    Cloud compliance
+    Cloud operations
+    Legal and compliance
+    Udemy CCSP course.
 
