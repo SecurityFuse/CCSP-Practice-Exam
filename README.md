@@ -2,7 +2,7 @@
 **CCSP** Exam questions | **CCSP** Dumps
 
 [April Updated]: Latest exam questions added.
-https://www.udemy.com/course/ccsp-exam/?referralCode=713979B516F649014077
+//
 you can get **DISCOUNT** by using **below link** for the month **. **LIMITED TIME** only
 
 https://www.udemy.com/course/ccsp-exam/?couponCode=LIMITED
