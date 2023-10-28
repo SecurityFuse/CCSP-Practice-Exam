@@ -5,7 +5,7 @@
 //
 you can get **DISCOUNT** by using **below link** for the month **. **LIMITED TIME** only
 
-//
+**https://www.udemy.com/course/c-csp-practice-exam/?couponCode=LIMITEDFORNOV**
 
 Finally! Pass the **ISC2 Certified Cloud Security Professional** exam.
 
