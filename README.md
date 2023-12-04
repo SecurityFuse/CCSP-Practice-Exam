@@ -1,11 +1,11 @@
 # CCSP-Practice-Exam
 **CCSP** Exam questions | **CCSP** Dumps
-
-[April Updated]: Latest exam questions added.
+Just fnd below wonderfull repo of CCSP exam question online .
+[DEC Updated]: Latest exam questions added.
 //
 you can get **DISCOUNT** by using **below link** for the month **. **LIMITED TIME** only
 
-**https://www.udemy.com/course/c-csp-practice-exam/?couponCode=LIMITEDFORNOV**
+**https://www.udemy.com/course/c-csp-practice-exam/?couponCode=LIMITEDFORDEC**
 
 Finally! Pass the **ISC2 Certified Cloud Security Professional** exam.
 
