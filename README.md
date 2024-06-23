@@ -5,7 +5,7 @@ Just fnd below wonderfull repo of CCSP exam question online .
 //
 you can get **DISCOUNT** by using **below link** for the month **. **LIMITED TIME** only
 
-**https://www.udemy.com/course/c-csp-practice-exam/?couponCode=LIMITEDFORMAY**
+**https://www.udemy.com/course/c-csp-practice-exam/?couponCode=LIMITEDFORJUN**
 
 Finally! Pass the **ISC2 Certified Cloud Security Professional** exam.
 
